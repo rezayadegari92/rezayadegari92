@@ -1,7 +1,7 @@
 # Hi there, I’m Reza 👋
 
 I’m a **Backend Developer** specializing in **Python & Django**, passionate about building scalable systems and exploring microservices architecture.  
-**Recently working on:** Apache Kafka and Celery for building distributed task pipelines.
+**Recently working on:** Apache Kafka.
 
 ---
 
@@ -16,7 +16,6 @@ I’m a **Backend Developer** specializing in **Python & Django**, passionate ab
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" alt="Celery" width="45" height="45"/>
 </p>
 
 ---
