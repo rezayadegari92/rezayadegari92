@@ -18,8 +18,8 @@ I'm a **Backend Developer** specializing in **Python & Django**, passionate abou
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram Bot API" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/n8n.svg" alt="n8n" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg" alt="Telegram Bot API" width="45" height="45"/>
 </p>
 
 ---
@@ -35,8 +35,8 @@ I'm a **Backend Developer** specializing in **Python & Django**, passionate abou
 
 ## 📊 GitHub Stats
 
-![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezayadegari92&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rezayadegari92&layout=compact&theme=radical)
+![Reza's GitHub stats](https://github-stats-extended.vercel.app/api?username=rezayadegari92&show_icons=true&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=rezayadegari92&layout=compact&theme=radical)
 
 ---
 
